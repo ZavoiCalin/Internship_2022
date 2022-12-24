@@ -1,0 +1,6 @@
+
+in build scrie comanda cmake ../src 
+in build scrie comanda make 
+
+cmake ../src
+make

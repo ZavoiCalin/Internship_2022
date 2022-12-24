@@ -1,0 +1,4 @@
+/home/projectx/Desktop/zav/cpp_course/Boost/build/CMakeFiles/rebuild_cache.dir
+/home/projectx/Desktop/zav/cpp_course/Boost/build/CMakeFiles/edit_cache.dir
+/home/projectx/Desktop/zav/cpp_course/Boost/build/CMakeFiles/Boosting.dir
+/home/projectx/Desktop/zav/cpp_course/Boost/build/CMakeFiles/main.dir
