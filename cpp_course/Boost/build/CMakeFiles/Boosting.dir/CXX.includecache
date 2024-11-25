@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/projectx/Desktop/zav/cpp_course/Boost/src/main.cpp
+iostream
+-
+boost/interprocess/managed_shared_memory.hpp
+-
+string
+-
+
